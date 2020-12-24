@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Keylogger:jar">
+    <output-path>$PROJECT_DIR$/src</output-path>
+    <properties id="ant-preprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="Keylogger.jar">
+      <element id="module-output" name="Keylogger" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jnativehook-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-net-3.7.2-bin/commons-net-3.7.2/commons-net-3.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jnativehook-1.1.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

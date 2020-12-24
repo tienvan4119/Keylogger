@@ -1,0 +1,33 @@
+Character from keyboard :    
+KKKKOOKKOOLLBBBB
+Modifier Key Pressed: Backspace
+
+Modifier Key Pressed: Backspace
+
+Modifier Key Pressed: Backspace
+
+Modifier Key Pressed: Backspace
+
+Modifier Key Pressed: Space
+
+Modifier Key Pressed: Space
+
+Modifier Key Pressed: Space
+
+Modifier Key Pressed: Space
+
+Modifier Key Pressed: Alt
+
+Modifier Key Pressed: Shift
+
+Modifier Key Pressed: Undefined
+
+Modifier Key Pressed: Alt
+
+Modifier Key Pressed: Meta
+
+Modifier Key Pressed: Shift
+S
+------------------------------------
+Data get  :    
+KKKKOOKKOOLL    S
